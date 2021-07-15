@@ -2,7 +2,7 @@
 
 - 🌱 I’m currently developing in Python and planning to go into Comp Sci
 - 💬 Ask me about Python and cybersecurity
-- 📫 You can reach me through (Sullybash1234@gmail.com)[Email] or through my (https://www.github.com/Sullybash12)[github]
+- 📫 You can reach me through [Email](Sullybash1234@gmail.com) or through my [github](https://www.github.com/Sullybash12)
 <!--
 **Sullybash12/Sullybash12** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
