@@ -1,4 +1,6 @@
-# Hi there 👋, I'm Sullybash12
+<img align="right" alt="Github Stats" width="400" src="https://github-readme-stats.vercel.app/api?username=Sullybash12&show_icons=true&theme=dark">
+
+## Hi there 👋, I'm Sullybash12
 
 - 🌱 I’m currently developing in Python and planning to go into Comp Sci
 - 💬 Ask me about Python and cybersecurity
