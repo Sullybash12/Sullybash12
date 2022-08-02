@@ -2,7 +2,7 @@
 
 ## Hi there 👋, I'm Sullybash12
 
-- 🌱 I’m currently developing in Python and planning to go into Comp Sci
+- 🌱 Software engineer at Senior Studios and an optics software company
 - 💬 Ask me about Python and cybersecurity
 - 📫 You can reach me through email or my [github](https://www.github.com/Sullybash12)
 <!--
